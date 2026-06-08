@@ -1,0 +1,12 @@
+<svg width="500" height="380" viewBox="0 0 500 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="500" height="380" rx="38" fill="#fff7ed"/>
+<ellipse cx="250" cy="310" rx="150" ry="28" fill="#B98568" opacity="0.28"/>
+<rect x="130" y="150" width="240" height="130" rx="32" fill="#8b5e3c"/>
+<rect x="130" y="122" width="240" height="66" rx="30" fill="#f2d2a9"/>
+<path d="M145 165C174 204 202 166 228 194C255 224 285 165 314 195C343 224 356 173 370 184V148H145V165Z" fill="#fff7f2" opacity="0.95"/>
+<circle cx="195" cy="115" r="22" fill="#7c3f1d"/>
+<circle cx="252" cy="104" r="25" fill="#7c3f1d"/>
+<circle cx="308" cy="115" r="22" fill="#7c3f1d"/>
+<rect x="168" y="208" width="164" height="18" rx="9" fill="#f2d2a9" opacity="0.75"/>
+<text x="250" y="345" text-anchor="middle" font-size="26" font-family="Arial" font-weight="700" fill="#6f3826">Tiramisu</text>
+</svg>

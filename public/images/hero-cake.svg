@@ -1,0 +1,15 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="700" rx="54" fill="#FFF1E8"/>
+<circle cx="706" cy="122" r="64" fill="#F7C9A5"/>
+<circle cx="175" cy="570" r="88" fill="#FFE0CD"/>
+<ellipse cx="455" cy="555" rx="260" ry="46" fill="#D9A17E" opacity="0.38"/>
+<rect x="244" y="248" width="418" height="236" rx="44" fill="#8B4A2F"/>
+<rect x="244" y="206" width="418" height="110" rx="46" fill="#FCE2D2"/>
+<path d="M264 277C308 340 351 277 389 322C434 374 483 285 531 329C577 371 609 296 646 315V250H264V277Z" fill="#FFF7F2"/>
+<rect x="286" y="345" width="335" height="28" rx="14" fill="#F7C9A5"/>
+<rect x="286" y="407" width="335" height="28" rx="14" fill="#F7C9A5"/>
+<circle cx="357" cy="198" r="35" fill="#E85D75"/>
+<circle cx="456" cy="176" r="40" fill="#E85D75"/>
+<circle cx="558" cy="198" r="35" fill="#E85D75"/>
+<path d="M456 132C472 102 511 101 526 118C492 119 474 133 456 154C439 133 419 119 386 118C401 101 441 102 456 132Z" fill="#2F7D32"/>
+</svg>
